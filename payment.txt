@@ -1,0 +1,11 @@
+PAYMENT MODULE
+
+START
+SELECT payment method
+ENTER payment details
+
+IF payment successful
+DISPLAY Payment Complete
+ELSE
+DISPLAY Transaction Failed
+END
