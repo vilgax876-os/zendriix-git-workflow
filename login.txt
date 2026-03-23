@@ -1,0 +1,11 @@
+LOGIN MODULE
+
+START
+INPUT username
+INPUT password
+
+IF credentials valid
+DISPLAY Login Successful
+ELSE
+DISPLAY Login Failed
+END
