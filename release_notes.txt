@@ -1,0 +1,8 @@
+Zendriix Software Release
+
+Version: v1.0
+Release Date: 25th
+
+Features:
+Login module
+Payment module
